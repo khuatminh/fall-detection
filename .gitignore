@@ -3,7 +3,7 @@ __pycache__/
 .pytest_cache/
 .env
 logs/
-# data/: chỉ đưa lên GitHub dữ liệu thu bằng đai (nhỏ); SisFall, URFD tải bằng script
+
 data/*
 !data/belt/
 build/
